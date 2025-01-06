@@ -48,4 +48,6 @@ This is a simple implementation of the TicTacToe game in Python. In this game, t
 
 ---
 
-You can replace `<repository-url>` with the actual link to your project repository if you want to include it.
+
+### 📧 ارتباط با من | Contact
+برای هرگونه سوال یا پیشنهاد، می‌توانید از طریق ایمیل با من تماس بگیرید: masudpythongit@gmail.com
